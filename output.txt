@@ -1,0 +1,4 @@
+Aditya's salary is : 39200
+Bachu's salary is : 72000
+Bhasu's salary is : 70000
+Arun's salary is : 36200

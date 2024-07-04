@@ -1,0 +1,4 @@
+Aditya,39200
+Bachu,72000
+Bhasu,70000
+Arun,36200
